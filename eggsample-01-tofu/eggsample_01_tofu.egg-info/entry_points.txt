@@ -1,0 +1,2 @@
+[eggsample]
+tofu = eggsample_01_tofu

@@ -18,13 +18,13 @@ Install host
 - `eggsample`
 
 Install plugin 'spam'
-`pip install .\eggsample-spam\`
+`pip install .\eggsample-02-spam\`
 
 Run host
 - `eggsample`
 
 Install plugin 'tofu
-- `pip install .\eggsample-tofu\`
+- `pip install .\eggsample-01-tofu\`
 
 Run host
 - `eggsample`

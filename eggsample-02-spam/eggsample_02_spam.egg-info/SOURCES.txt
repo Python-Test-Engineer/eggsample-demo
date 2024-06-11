@@ -1,0 +1,8 @@
+eggsample_02_spam.py
+setup.py
+eggsample_02_spam.egg-info/PKG-INFO
+eggsample_02_spam.egg-info/SOURCES.txt
+eggsample_02_spam.egg-info/dependency_links.txt
+eggsample_02_spam.egg-info/entry_points.txt
+eggsample_02_spam.egg-info/requires.txt
+eggsample_02_spam.egg-info/top_level.txt
