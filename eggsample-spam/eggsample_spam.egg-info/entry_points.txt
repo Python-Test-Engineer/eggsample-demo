@@ -1,2 +1,0 @@
-[eggsample]
-spam = eggsample_spam

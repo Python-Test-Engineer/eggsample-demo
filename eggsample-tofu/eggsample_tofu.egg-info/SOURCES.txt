@@ -1,8 +1,0 @@
-eggsample_tofu.py
-setup.py
-eggsample_tofu.egg-info/PKG-INFO
-eggsample_tofu.egg-info/SOURCES.txt
-eggsample_tofu.egg-info/dependency_links.txt
-eggsample_tofu.egg-info/entry_points.txt
-eggsample_tofu.egg-info/requires.txt
-eggsample_tofu.egg-info/top_level.txt

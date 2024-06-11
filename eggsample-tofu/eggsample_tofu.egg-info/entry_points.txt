@@ -1,2 +1,0 @@
-[eggsample]
-tofu = eggsample_tofu
