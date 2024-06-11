@@ -7,6 +7,7 @@ I have encoded the 'complete example' in docs for EGGSAMPLE.
 [YT video](https://youtu.be/6CqINfl9OMY)
 
 Set up:
+
 - `python -m venv venv`
 - `.\venv\Scripts\activate`
 - `pip install -r requirements.txt`
