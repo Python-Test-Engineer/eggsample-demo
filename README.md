@@ -1,13 +1,31 @@
+# Pluggy docs demo with second plugin
 
-`python -m venv venv`
-`.\venv\Scripts\activate`
-`pip install -r requirements.txt`
+https://pluggy.readthedocs.io/en/stable/index.html#
 
+I have encoded the 'complete example' in docs for EGGSAMPLE.
+
+[YT video](https://youtu.be/6CqINfl9OMY)
+
+Set up:
+- `python -m venv venv`
+- `.\venv\Scripts\activate`
+- `pip install -r requirements.txt`
+
+Install host
 `pip install .`
-`eggsample`
 
+ Run host only
+- `eggsample`
+
+Install plugin 'spam'
 `pip install .\eggsample-spam\`
-`eggsample`
 
-`pip install .\eggsample-tofu\`
-`eggsample`
+Run host
+- `eggsample`
+
+Install plugin 'tofu
+- `pip install .\eggsample-tofu\`
+
+Run host
+- `eggsample`
+
